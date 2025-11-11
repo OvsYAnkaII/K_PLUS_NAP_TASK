@@ -1,0 +1,13 @@
+apple orange banana
+banana grape apple
+apple pear banana
+# в поиске несуществующее слово, например watermelon
+# apple banana 0
+
+налоги на доходы физических лиц в России, налоги на доходы физических лиц в Казахстане
+
+apple orange banana grape apple orange banana
+banana grape apple
+apple pear banana # apple banana 1 -> 3
+
++ несуществующий файл + png + невалидный ввод

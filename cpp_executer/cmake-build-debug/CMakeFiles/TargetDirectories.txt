@@ -1,0 +1,3 @@
+/Users/ovsyanka/Desktop/NAP_task/cpp_executer/cmake-build-debug/CMakeFiles/cpp_executer.dir
+/Users/ovsyanka/Desktop/NAP_task/cpp_executer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ovsyanka/Desktop/NAP_task/cpp_executer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
